@@ -14,3 +14,8 @@ https://github.com/asim/go-micro
 
 NATS  
 EMITTER.IO
+
+
+### LOGGING
+
+ZERO log

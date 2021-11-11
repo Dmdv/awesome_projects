@@ -14,6 +14,7 @@ https://github.com/asim/go-micro
 
 NATS  
 EMITTER.IO
+https://github.com/shijuvar/gokit/tree/master/examples/nats-streaming
 
 
 ### LOGGING

@@ -19,3 +19,7 @@ EMITTER.IO
 ### LOGGING
 
 ZERO log
+
+### Frameworks and courses
+
+https://github.com/shijuvar/gokit
